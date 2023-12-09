@@ -133,6 +133,7 @@ body{
 .about-col1 img{
     width: 95%;
     border-radius: 15px;
+    transform: scale(1.2);
 }
 .about-col2{
     flex-basis: 55%;
