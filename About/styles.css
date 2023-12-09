@@ -133,6 +133,8 @@ body{
 .about-col1 img{
     width: 95%;
     border-radius: 15px;
+}
+.about-col1 img:hover{
     transform: scale(1.2);
 }
 .about-col2{
